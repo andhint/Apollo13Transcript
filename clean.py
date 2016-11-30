@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read in data. Will create a dataframe with a row for each line in text file
-data = pd.read_table('apollo13transcript.txt.txt', header = None)
+data = pd.read_table('apollo13transcript.txt', header = None)
 # Trim extra information at top of document
 data = data.iloc[138:]
 

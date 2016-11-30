@@ -32877,11 +32877,12 @@ Photo l's on station. Photo 1 observes splashdown at this time.
 142:54:48 IWO
 1 ... pickup ...
 
-142:54:49 S-l
+05 22 54 49 S-l
 Roger.
 
-142:54:56 P-l
+05 22 54 56 P-l
 Photo-1. Splashdown at this time. The three chutes are displaced. They're in the water.
 
-142:55:12 R-l
+05 22 55 12 R-l
 ... Recovery, I have a clock - -
+
