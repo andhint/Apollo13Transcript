@@ -117,5 +117,3 @@ plt.show()
 # plt.xticks(tick_pos, stackedBarChartData.index)
 # plt.legend(loc='upper left')
 # plt.show()
-
-print data[data.text == "Houston, we've had a problem. We've had a MAIN B BUS UNDERVOLT."]
